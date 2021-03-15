@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial scale= 1">
+  <link rel="stylesheet" href="css/main.css">
+  <title>Wind Farms</title>
+  <meta name="author" content="Matthew T. Cronin">
+  
+</head>
+  
+<body>
+  
+  <h1>Wind Farms</h1>
+  <nav>
+    <h2>Ways of the Wind</h2>
+    <ul>
+      <li><a href="1">Design and Location</a></li>
+      <li><a href="2">Onshore</a></li>
+      <li><a href="3">Offshore</a></li>
+      <li><a href="4">Experimental and Proposed</a></li>
+      <li><a href="5">By Region</a></li>
+      <li><a href="6">Criticism</a></li>
+      <li><a href="7">See Also</a></li>
+    
+    </ul>
+  </nav>
+  
+  <h2>Offshore</h2>
