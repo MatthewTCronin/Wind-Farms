@@ -33,36 +33,161 @@
 <h3>World's largest onshore wind farms</h3>
 
 <div class="row">
-  <div class="coloumn">Wind farm</div>
-Wind farm	Current
-capacity
-(MW)	Country	Notes
-Gansu Wind Farm	8,000	China	[2][20][21][22][23]
-[24]
-
-Zhang Jiakou	3,000	China	[20]
-Urat Zhongqi, Bayannur City	2,100	China	[20]
-Hami Wind Farm	2,000	China	[20]
-Damao Qi, Baotou City	1,600	China	[20]
-Muppandal Wind farm	1,500	India	[25]
-Alta (Oak Creek-Mojave)	1,320	United States	[26]
-Jaisalmer Wind Park	1,064	India	
-Hongshagang, Town, Minqin County	1,000	China	[20]
-Kailu, Tongliao	1,000	China	[20]
-Chengde	1,000	China	[20]
-Shepherds Flat Wind Farm	845	United States	
-Roscoe Wind Farm	781.5	United States	[27]
-Horse Hollow Wind Energy Center	735.5	United States	[28][29]
-Capricorn Ridge Wind Farm	662.5	United States	[28][29]
-Fântânele-Cogealac Wind Farm	600	Romania	[30]
-Fowler Ridge Wind Farm	599.8	United States	[31]
-Sweetwater Wind Farm	585.3	United States	[28]
-Zarafara Wind Farm	545	Egypt	[32]
-Whitelee Wind Farm	539	Scotland, U.K	
-Buffalo Gap Wind Farm	523.3	United States	[28][29]
-Meadow Lake Wind Farm	500	United States	[31]
-Dabancheng Wind Farm	500	China	[33]
-Panther Creek Wind Farm	458	United States	[29]
+  <div class="coloumn">Wind Farm</div>
+  <div class="coloumn">Current Capacity (MW)</div>
+  <div class="coloumn">Country</div>
+  <div class="coloumn">Notes</div>
+</div>
+<div class="row">
+  <div class="coloumn">Gansu Wind Farm</div>
+  <div class="coloumn">8,000</div>
+  <div class="coloumn">China</div>
+  <div class="coloumn">[2][20][21][22][23][24]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Zhang Jiakou</div>
+  <div class="coloumn">3,000</div>
+  <div class="coloumn">China</div>
+  <div class="coloumn">[20]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Urat Zhongqi, Bayanuur City</div>
+  <div class="coloumn">2,100</div>
+  <div class="coloumn">China</div>
+  <div class="coloumn">[20]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Hami Wind Farm</div>
+  <div class="coloumn">2,000</div>
+  <div class="coloumn">China</div>
+  <div class="coloumn">[20]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Damao Qi, Batou City</div>
+  <div class="coloumn">1,600</div>
+  <div class="coloumn">China</div>
+  <div class="coloumn">[20]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Muppandal Wind Farm</div>
+  <div class="coloumn">1,500</div>
+  <div class="coloumn">India</div>
+  <div class="coloumn">[25]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Alta (Oak Creek-Mojave)</div>
+  <div class="coloumn">1,320</div>
+  <div class="coloumn">United States</div>
+  <div class="coloumn">[26]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Jaisalmer Wind Park</div>
+  <div class="coloumn">1,064</div>
+  <div class="coloumn">India</div>
+  <div class="coloumn"></div>
+</div>
+<div class="row">
+  <div class="coloumn">Hongshgang, Town, Minqin County</div>
+  <div class="coloumn">1,000</div>
+  <div class="coloumn">China</div>
+  <div class="coloumn">[20]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Kailu, Tongliao</div>
+  <div class="coloumn">1,000</div>
+  <div class="coloumn">China</div>
+  <div class="coloumn">[20]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Chengde</div>
+  <div class="coloumn">1,000</div>
+  <div class="coloumn">China</div>
+  <div class="coloumn">[20]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Shephards Flat Wind Farm</div>
+  <div class="coloumn">845</div>
+  <div class="coloumn">United States</div>
+  <div class="coloumn"></div>
+</div>
+<div class="row">
+  <div class="coloumn">Roscoe Wind Farm</div>
+  <div class="coloumn">781.5</div>
+  <div class="coloumn">United States</div>
+  <div class="coloumn">[27]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Horse Hollow Wind Energy Center</div>
+  <div class="coloumn">735.5</div>
+  <div class="coloumn">United States</div>
+  <div class="coloumn">[28][29]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Capricorn Ridge Wind Farm</div>
+  <div class="coloumn">662.5</div>
+  <div class="coloumn">United States</div>
+  <div class="coloumn">[28][29]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Fantanele-Cogealac Wind Farm</div>
+  <div class="coloumn">600</div>
+  <div class="coloumn">Romania</div>
+  <div class="coloumn">[30]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Fowler Ridge Wind Farm</div>
+  <div class="coloumn">599.8</div>
+  <div class="coloumn">United States</div>
+  <div class="coloumn">[31]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Sweetwater Wind Farm</div>
+  <div class="coloumn">585.3</div>
+  <div class="coloumn">United States</div>
+  <div class="coloumn">[28]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Zarafara Wind Farm</div>
+  <div class="coloumn">545</div>
+  <div class="coloumn">Egypt</div>
+  <div class="coloumn">[32]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Whitelee Wind Farm</div>
+  <div class="coloumn">539</div>
+  <div class="coloumn">Scotland</div>
+  <div class="coloumn"></div>
+</div>
+<div class="row">
+  <div class="coloumn">Wind Farm</div>
+  <div class="coloumn">Current Capacity (MW)</div>
+  <div class="coloumn">Country</div>
+  <div class="coloumn">Notes</div>
+</div>
+<div class="row">
+  <div class="coloumn">Buffalo Gap Wind Farm</div>
+  <div class="coloumn">523.3</div>
+  <div class="coloumn">United States</div>
+  <div class="coloumn">[28][29]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Meadow Lake Wind Farm</div>
+  <div class="coloumn">500</div>
+  <div class="coloumn">United States</div>
+  <div class="coloumn">[31]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Dabancheng Wind Farm</div>
+  <div class="coloumn">500</div>
+  <div class="coloumn">China</div>
+  <div class="coloumn">[33]</div>
+</div>
+<div class="row">
+  <div class="coloumn">Panther Creek Wind Farm</div>
+  <div class="coloumn">458</div>
+  <div class="coloumn">United States</div>
+  <div class="coloumn">[29]</div>
+</div>
 
 <p>Onshore turbine installations in hilly or mountainous regions tend to be on ridges generally three kilometres or more inland from the nearest shoreline. This is done to exploit the topographic acceleration as the wind accelerates over a ridge. The additional wind speeds gained in this way can increase energy produced because more wind goes through the turbines. The exact position of each turbine matters, because a difference of 30 metre could potentially double output. This careful placement is referred to as 'micro-siting'.</p>
 
