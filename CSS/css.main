@@ -2,39 +2,54 @@
 
 h1{
    font-family: sans-serif, trebuchet MS, tahoma, verdana;
-   font-size: 5 em;
-   font-color: white;
+   font-size: 10 px;
+   color: white;
    }
 
 h2{
    font-family: sans-serif, tahoma, verdana, arial black;
-   font-size: 3 em;
-   font-color: white;
+   font-size: 6 px;
+   color: white;
    }
    
 h3{
    font-family: sans-serif, tahoma, arial black, arial;
-   font-size: 2 em;
-   font-color: white;
+   font-size: 3 px;
+   color: white;
    }
 
 /* Body */
 
 body{
-     margin: 8px;
+     margin: 12px;
      max-width: 60 em;
-     padding: 0.5%
-     background color: blue;
+     padding: 0.5%;
+     background-color: blue;
      }
+
+nav{
+    font-family: sans-serif, arial black, arial;
+  line-height: 1.5 em;
+   font-size: 1 em;
+   color: black; 
+}
+
+a{
+  font-family: sans-serif, arial black, arial;
+  line-height: 1.5 em;
+   font-size: 1 em;
+   color: white;
+}
 
 p{
   font-family: sans-serif, arial black, arial;
   line-height: 1.5 em;
    font-size: 1 em;
-   font-color: white;
+   color: white;
    }
    
 /* Break point */
 
-@media(min-width: 45 em)
-   
+@media(min-width: 45 em)     
+     
+     
