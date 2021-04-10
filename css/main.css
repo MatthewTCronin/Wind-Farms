@@ -27,6 +27,12 @@ body{
      background-color: blue;
      }
 
+img{
+   margin: 12px;
+     max-width: 60 em;
+     padding: 0.5%;
+}
+
 nav{
     font-family: sans-serif, arial black, arial;
   line-height: 1.5 em;
