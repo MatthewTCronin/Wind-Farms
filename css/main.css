@@ -52,6 +52,13 @@ nav{
    grid-auto-flow: column;
 }
 
+table{
+   font-family: sans-serif, arial black, arial;
+  line-height: 1.5;
+   font-size: 1 em;
+   color: white;
+}
+
 a{
   font-family: sans-serif, arial black, arial;
   line-height: 1.5 em;
