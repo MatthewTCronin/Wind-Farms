@@ -93,6 +93,6 @@ p{
    
 /* Break point */
 
-@media(min-width: 45em)     
+{@media (min-width: 45em)}     
      
      
