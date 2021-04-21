@@ -2,25 +2,25 @@
 
 h1{
    font-family: sans-serif, trebuchet MS, tahoma, verdana;
-   font-size: 10 px;
+   font-size: 10px;
    color: white;
    }
 
 h2{
    font-family: sans-serif, tahoma, verdana, arial black;
-   font-size: 6 px;
+   font-size: 6px;
    color: white;
    }
    
 h3{
    font-family: sans-serif, tahoma, arial black, arial;
-   font-size: 3 px;
+   font-size: 3px;
    color: white;
    }
 
 h4{
    font-family: sans-serif, tahoma, arial black, arial;
-   font-size: 2 px;
+   font-size: 2px;
    font-style: italic;
    color: white;
    }
@@ -29,22 +29,22 @@ h4{
 
 body{
      margin: 12px;
-     max-width: 60 em;
+     max-width: 60em;
      padding: 0.5%;
      background-color: #335E99;
      }
 
 img{
    margin: 12px;
-     max-width: 60 em;
+     max-width: 60em;
      padding: 0.5%;
    float: right;
 }
 
 nav{
     font-family: sans-serif, arial black, arial;
-  line-height: 1.5 em;
-   font-size: 1 em;
+  line-height: 1.5;
+   font-size: 1em;
    color: white; 
 }
 
@@ -62,7 +62,7 @@ nav{
 table{
    font-family: sans-serif, arial black, arial;
   line-height: 1.5;
-   font-size: 1 em;
+   font-size: 1em;
    color: white;
    display: table;
     border-collapse: separate;
@@ -77,20 +77,20 @@ table{
 
 a{
   font-family: sans-serif, arial black, arial;
-  line-height: 1.5 em;
-   font-size: 1 em;
+  line-height: 1.5;
+   font-size: 1em;
    color: white;
 }
 
 p{
   font-family: sans-serif, arial black, arial;
   line-height: 1.5;
-   font-size: 1 em;
+   font-size: 1em;
    color: white;
    }
    
 /* Break point */
 
-@media(min-width: 45 em)     
+@media(min-width: 45em)     
      
      
