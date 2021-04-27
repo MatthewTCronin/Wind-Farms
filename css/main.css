@@ -103,7 +103,7 @@ p{
   */
 
   body {
-    font-size: 125%; /* Rescale text, depending on line length of content */
+    font-size: 115%; /* Rescale text, depending on line length of content */
   }
 
 }
