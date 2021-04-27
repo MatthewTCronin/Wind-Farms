@@ -93,6 +93,19 @@ p{
    
 /* Break point */
 
-{@media (min-width: 45em)}     
+   @media (min-width: 45em) {
+
+/* Rescale all text and/or em-based elements to improve readability (and overall user experience) */
+
+  /*
+  Resource:
+  https://practicaltypography.com/line-length.html
+  */
+
+  body {
+    font-size: 125%; /* Rescale text, depending on line length of content */
+  }
+
+}
      
      
