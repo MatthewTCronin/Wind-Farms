@@ -30,9 +30,9 @@ h4{
 /* Body */
 
 body{
-     margin: 12px;
-     max-width: 60em;
-     padding: 0.5%;
+     margin: auto;
+     max-width: 48em;
+     padding: 1rem;
      background-color: #335E99;
      }
 
