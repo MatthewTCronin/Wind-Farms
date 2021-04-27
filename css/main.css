@@ -50,16 +50,6 @@ nav{
    color: white; 
 }
 
-!div{
-   font-family: sans-serif, arial black, arial;
-  line-height: 1.5 em;
-   font-size: 1 em;
-   color: white;
-   display: grid;
-   grid-template-rows: repeat (100%, auto);
-   grid-template-columns: repeat (auto, 100%);
-   grid-auto-flow: column;
-}
 
 table{
    font-family: sans-serif, arial black, arial;
